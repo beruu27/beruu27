@@ -1,6 +1,6 @@
 ---
 
-<h1 align="center">🚀 Restu Ramadhan | @beruu27</h1>
+<h1 align="center">hawoo</h1>
 <p align="center"><em>fortis fortuna adiuvat — Fortune favors the bold.</em></p>
 
 <p align="center">
@@ -48,24 +48,6 @@ Fast. Precise. Designed for Terminal Ninjas.
 
 
 
-
----
-
-📡 Connect With Me
-
- 
-
-
----
-
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beruu27&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=beruu27&theme=tokyonight&hide_border=true" width="47%" />
-</p>
----
-
 🧠 Terminal is my Playground
 
 while true; do
@@ -74,8 +56,4 @@ while true; do
   help_community;
 done
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=beruu27&color=00ffcc&style=flat-square" />
-</p>
-```
 ---
