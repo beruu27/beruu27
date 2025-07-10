@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 ```bash
-> echo "Hello, I'm Restu a.k.a beruu27"
+> echo "Hello, I'm beruu27"
 
 💡 Passionate about automation, cybersecurity, and terminal-based tools.
 
@@ -45,15 +45,3 @@ Built with Bash • Styled with ANSI • Supports batch & quality options
 
 > Reconnaissance tool for ethical hacking and surface mapping
 Fast. Precise. Designed for Terminal Ninjas.
-
-
-
-🧠 Terminal is my Playground
-
-while true; do
-  build_tool;
-  learn_something_new;
-  help_community;
-done
-
----
