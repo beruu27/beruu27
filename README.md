@@ -30,7 +30,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=beruu27&theme=shades-of-purple&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 [![](https://visitcount.itsvg.in/api?id=beruu27&icon=2&color=0)](https://visitcount.itsvg.in)
