@@ -6,7 +6,7 @@
 </p>
 
 # 💫 About Me:
-"Hello, I'm beruu27"<br><br>💡 Passionate about automation, cybersecurity, and terminal-based tools.<br><br>🧠 Self-taught developer focused on scripting, ethical hacking, and data hunting.<br><br>⚙️ Builder of CLI tools with clean design, minimalism, and high impact.<br><br>🌐 Believe in open source, community, and staying under the radar but ahead of the curve.<br><br><br><br>
+"Hello, I'm beruu27"<br><br>💡 Passionate about automation, cybersecurity, and terminal-based tools.<br><br>🧠 Self-taught developer focused on scripting, ethical hacking, and data hunting.<br><br>⚙️ Builder of CLI tools with clean design, minimalism, and high impact.<br><br>🌐 nothing.<br><br><br><br>
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
