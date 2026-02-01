@@ -2,11 +2,11 @@
 <p align="center"><em>fortis fortuna adiuvat</em></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Shell+Scripter+%7C+Bug+Hunter+%7C+Open+Source+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=vibe+coding+enjoyers" alt="Typing SVG" />
 </p>
 
 # 💫 About Me:
-"Hello, I'm beruu27"<br><br>💡 Passionate about automation, cybersecurity, and terminal-based tools.<br><br>🧠 i'm a junior programer btw :v<br><br>⚙️ Builder of CLI tools, minimalism, and high impact.<br><br>🌐 nothing.<br><br><br><br>
+"Hello, I'm beruu27"<br><br>💡 Passionate about automation, and terminal-based tools.<br><br>🧠 i'm a vibe coding btw:v<br><br>⚙️ Builder of CLI tools, minimalism, and high impact.<br><br>🌐 nothing.<br><br><br><br>
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
