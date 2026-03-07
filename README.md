@@ -6,7 +6,7 @@
 </p>
 
 # 💫 About Me:
-"Hello, I'm beruu27"<br><br>💡 Passionate about automation, and terminal-based tools.<br><br>🧠 i'm a vibe coding btw:v<br><br>⚙️ Builder of CLI tools, minimalism, and high impact.<br><br>🌐 nothing.<br><br><br><br>
+"Hello, I'm beruu27"<br><br>💡 Passionate about automation, and terminal-based tools.<br><br>🧠 i'm a vibe coder btw:v<br><br>⚙️ Builder of CLI tools, minimalism, and high impact.<br><br>🌐 nothing.<br><br><br><br>
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
